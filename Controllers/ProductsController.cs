@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MyApi.Models;
-
+using System.Collections.Generic;
+using System.Linq;
 
 namespace MyApi.Controllers
 {
